@@ -5,7 +5,7 @@ last_updated: 2024-11-13
 status: final
 
 # Basic Information
-character_id: TO-01
+character_id: chr_to01
 name:
   given: "悟"
   family: "鷹山"
@@ -74,7 +74,7 @@ related_files:
 # 鷹山 悟（タカヤマ サトル）
 
 ## 基本情報
-- ID: TO-01
+- ID: chr_to01
 - 学年：3年
 - ポジション：ウイングスパイカー
 - 身長：192cm

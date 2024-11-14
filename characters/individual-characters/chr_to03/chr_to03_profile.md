@@ -5,7 +5,7 @@ last_updated: 2024-11-13
 status: final
 
 # Basic Information
-character_id: TO-03
+character_id: chr_to03
 name:
   given: "篤史"
   family: "武藤"
@@ -74,7 +74,7 @@ related_files:
 # 武藤 篤史（ムトウ アツシ）
 
 ## 基本情報
-- ID: TO-03
+- ID: chr_to03
 - 学年：3年
 - ポジション：ミドルブロッカー
 - 身長：195cm

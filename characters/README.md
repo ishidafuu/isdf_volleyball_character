@@ -22,6 +22,8 @@
   - `position-matrix.md`: ポジション別マトリックス
   - `relationship-map.md`: 関係性マップ
 
+- `_raw-text/`: 編集前の文章
+
 - `episodes/`: エピソード管理
   - `_timeline/`: 時系列管理
   - `tournaments/`: 大会関連

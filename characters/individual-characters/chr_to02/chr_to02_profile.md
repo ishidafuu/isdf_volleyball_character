@@ -5,7 +5,7 @@ last_updated: 2024-11-13
 status: final
 
 # Basic Information
-character_id: TO-02
+character_id: chr_to02
 name:
   given: "大和"
   family: "久我"
@@ -74,7 +74,7 @@ related_files:
 # 久我 大和（クガ ヤマト）
 
 ## 基本情報
-- ID: TO-02
+- ID: chr_to02
 - 学年：3年
 - ポジション：セッター
 - 身長：180cm

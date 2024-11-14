@@ -5,7 +5,7 @@ last_updated: 2024-11-13
 status: final
 
 # Basic Information
-character_id: TO-04
+character_id: chr_to04
 name:
   given: "涼太"
   family: "神田"
@@ -74,7 +74,7 @@ related_files:
 # 神田 涼太（カンダ リョウタ）
 
 ## 基本情報
-- ID: TO-04
+- ID: chr_to04
 - 学年：2年
 - ポジション：ウイングスパイカー
 - 身長：182cm

@@ -1,1 +1,0 @@
-# isdf_volleyball_character
